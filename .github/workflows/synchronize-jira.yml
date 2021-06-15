@@ -25,3 +25,4 @@ jobs:
           jira-login: ${{ secrets.JIRA_LOGIN }}
           jira-password: ${{ secrets.JIRA_PASSWORD }}
           jira-project: SC
+          jira-url: https://sonarsource-jira-test.valiantys.net
