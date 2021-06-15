@@ -6,3 +6,5 @@ https://xtranet-sonarsource.atlassian.net/wiki/spaces/HELPDESK/pages/1764130965/
 - Assign it to Hirle -> ticket "In Review"
 
 - Feedback from Hirke -> ticket "In Test"
+
+- Merge the PR -> ticket "Resolved"
