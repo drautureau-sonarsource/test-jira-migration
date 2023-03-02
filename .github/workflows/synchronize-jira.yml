@@ -19,7 +19,7 @@ jobs:
     name: Synchronize JIRA tickets of PR
     steps:
       - name: Synchronized JIRA tickets based on PR status
-        uses: SonarSource/sync-jira-github-action@master
+        uses: SonarSource/sync-jira-github-action@feature/greg/improve-logs
         with:
           github-token: ${{ secrets.GH_ORG_TOKEN }}
           jira-login: ${{ secrets.JIRA_LOGIN }}
